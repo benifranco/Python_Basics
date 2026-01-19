@@ -363,4 +363,4 @@ Ahora que tienes Python listo, estás preparado para:
 | **Script** | Archivo .py con código Python ejecutable |
 | **requirements.txt** | Archivo que lista todas las dependencias |
 
-¡Felicidades! Ya tienes todo lo necesario para comenzar tu viaje en Python. 🚀
+¡Felicidades! Ya tienes todo lo necesario para comenzar tu viaje en Pythonm con Zero2Hero 🚀
