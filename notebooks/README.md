@@ -2,7 +2,7 @@
 
 En esta carpeta se reunen los cuadernos Jupyter. Convencion propuesta: `NN_tema.ipynb`.
 
-Clases actuales (01-13) en base a los archivos existentes:
+Clases actuales (01-15) en base a los archivos existentes:
 1. `01_introduccion_y_entorno.ipynb` - Introduccion y entorno.
 2. `02_tipos_de_datos.ipynb` - Tipos de datos.
 3. `03_control_de_flujo.ipynb` - Control de flujo.
@@ -17,23 +17,23 @@ Clases actuales (01-13) en base a los archivos existentes:
 12. `12_archivos_y_rutas.ipynb` - Archivos y rutas con `pathlib`.
 13. `13_formatos_json_csv.ipynb` - JSON y CSV.
 14. `14_funciones_de_orden_superior_y_lambda.ipynb` - Funciones de orden superior y `lambda`.
+15. `15_iteradores_y_generadores.ipynb` - Iteradores y generadores.
 
-Clases pendientes (15-30) sugeridas:
-1. `15_iteradores_y_generadores.ipynb` - Iteradores y generadores.
-2. `16_decoradores.ipynb` - Decoradores.
-3. `17_poo_clases_y_objetos.ipynb` - Clases y objetos.
-4. `18_poo_herencia_y_polimorfismo.ipynb` - Herencia y polimorfismo.
-5. `19_metodos_magicos.ipynb` - Metodos especiales (dunder).
-6. `20_dataclasses_y_namedtuple.ipynb` - `dataclasses` y `namedtuple`.
-7. `21_context_managers.ipynb` - `with` y context managers.
-8. `22_modulos_estandar_collections_itertools.ipynb` - `collections` e `itertools`.
-9. `23_datetime_y_tiempo.ipynb` - Fechas, horas y zonas.
-10. `24_automatizacion_con_os_y_shutil.ipynb` - Archivos y automatizacion basica.
-11. `25_logging_y_debugging.ipynb` - `logging` y debugging.
-12. `26_entornos_virtuales_y_pip.ipynb` - `venv` y `pip`.
-13. `27_pruebas_unitarias_con_pytest.ipynb` - Pruebas unitarias.
-14. `28_tipado_estatico_y_type_hints.ipynb` - Type hints.
-15. `29_consumo_de_apis_con_requests.ipynb` - APIs HTTP con `requests`.
-16. `30_proyecto_final.ipynb` - Proyecto integrador.
+Clases pendientes (16-30) sugeridas:
+1. `16_decoradores.ipynb` - Decoradores.
+2. `17_poo_clases_y_objetos.ipynb` - Clases y objetos.
+3. `18_poo_herencia_y_polimorfismo.ipynb` - Herencia y polimorfismo.
+4. `19_metodos_magicos.ipynb` - Metodos especiales (dunder).
+5. `20_dataclasses_y_namedtuple.ipynb` - `dataclasses` y `namedtuple`.
+6. `21_context_managers.ipynb` - `with` y context managers.
+7. `22_modulos_estandar_collections_itertools.ipynb` - `collections` e `itertools`.
+8. `23_datetime_y_tiempo.ipynb` - Fechas, horas y zonas.
+9. `24_automatizacion_con_os_y_shutil.ipynb` - Archivos y automatizacion basica.
+10. `25_logging_y_debugging.ipynb` - `logging` y debugging.
+11. `26_entornos_virtuales_y_pip.ipynb` - `venv` y `pip`.
+12. `27_pruebas_unitarias_con_pytest.ipynb` - Pruebas unitarias.
+13. `28_tipado_estatico_y_type_hints.ipynb` - Type hints.
+14. `29_consumo_de_apis_con_requests.ipynb` - APIs HTTP con `requests`.
+15. `30_proyecto_final.ipynb` - Proyecto integrador.
 
 Los cuadernos se guardan con celdas limpias (sin output) para evitar diffs ruidosos.
