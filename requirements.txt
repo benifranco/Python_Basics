@@ -1,2 +1,5 @@
 jupyterlab
+matplotlib
+numpy
 pytest
+scikit-learn
