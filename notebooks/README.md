@@ -2,7 +2,7 @@
 
 En esta carpeta se reunen los cuadernos Jupyter. Convencion propuesta: `NN_tema.ipynb`.
 
-Clases actuales (01-23) en base a los archivos existentes:
+Clases actuales (01-25) en base a los archivos existentes:
 1. `01_introduccion_y_entorno.ipynb` - Introduccion y entorno.
 2. `02_tipos_de_datos.ipynb` - Tipos de datos.
 3. `03_control_de_flujo.ipynb` - Control de flujo.
@@ -26,14 +26,16 @@ Clases actuales (01-23) en base a los archivos existentes:
 21. `21_introduccion_ciencia_de_datos_crisp_dm_y_prediccion_iris.ipynb` - Introduccion a ciencia de datos: CRISP-DM, prediccion, regiones de decision y densidad con Iris.
 22. `22_k_vecinos_mas_cercanos_flujo_completo.ipynb` - k-NN de extremo a extremo: distancia, normalizacion, train/test, accuracy por k y matriz de confusion.
 23. `23_kmeans_clustering_elbow_y_silhouette.ipynb` - K-Means con formulas, elbow, silhouette, train/test split y puntos de cuidado.
+24. `24_backend_sencillo_con_pandas_y_titanic.ipynb` - Aplicacion backend sencilla con pandas y Titanic (Kaggle): exploracion, limpieza, consultas, filtros, groupby y capa de servicio.
+25. `25_procesamiento_de_imagenes_con_kmeans.ipynb` - Procesamiento de imagenes con K-Means: lectura de imagen, canales RGB, cuantizacion de color, reconstruccion y estimacion de superficies.
 
-Clases pendientes (24-30) sugeridas:
-1. `24_datetime_y_tiempo.ipynb` - Fechas, horas y zonas.
-2. `25_automatizacion_con_os_y_shutil.ipynb` - Archivos y automatizacion basica.
-3. `26_logging_y_debugging.ipynb` - `logging` y debugging.
-4. `27_entornos_virtuales_y_pip.ipynb` - `venv` y `pip`.
-5. `28_pruebas_unitarias_con_pytest.ipynb` - Pruebas unitarias.
-6. `29_consumo_de_apis_con_requests.ipynb` - APIs HTTP con `requests`.
-7. `30_proyecto_final.ipynb` - Proyecto integrador.
+Clases pendientes (26-32) sugeridas:
+1. `26_datetime_y_tiempo.ipynb` - Fechas, horas y zonas.
+2. `27_automatizacion_con_os_y_shutil.ipynb` - Archivos y automatizacion basica.
+3. `28_logging_y_debugging.ipynb` - `logging` y debugging.
+4. `29_entornos_virtuales_y_pip.ipynb` - `venv` y `pip`.
+5. `30_pruebas_unitarias_con_pytest.ipynb` - Pruebas unitarias.
+6. `31_consumo_de_apis_con_requests.ipynb` - APIs HTTP con `requests`.
+7. `32_proyecto_final.ipynb` - Proyecto integrador.
 
 Los cuadernos se guardan con celdas limpias (sin output) para evitar diffs ruidosos.
