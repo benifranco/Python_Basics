@@ -2,7 +2,7 @@
 
 En esta carpeta se reunen los cuadernos Jupyter. Convencion propuesta: `NN_tema.ipynb`.
 
-Clases actuales (01-27) en base a los archivos existentes:
+Clases actuales (01-30) en base a los archivos existentes:
 1. `01_introduccion_y_entorno.ipynb` - Introduccion y entorno.
 2. `02_tipos_de_datos.ipynb` - Tipos de datos.
 3. `03_control_de_flujo.ipynb` - Control de flujo.
@@ -30,13 +30,13 @@ Clases actuales (01-27) en base a los archivos existentes:
 25. `25_procesamiento_de_imagenes_con_kmeans.ipynb` - Procesamiento de imagenes con K-Means: lectura de imagen, canales RGB, cuantizacion de color, reconstruccion y estimacion de superficies.
 26. `26_sesion_especial_sql_con_python.ipynb` - Sesion especial: SQL con Python, comandos basicos, JOIN, GROUP BY y merge.
 27. `27_visual_studio_code_terminal_entornos_y_proyectos.ipynb` - Visual Studio Code, terminal, estructura de proyectos, ambientes virtuales, `requirements.txt`, `.env` y extensiones utiles.
+28. `28_arboles_de_decision_gini_entropia_y_fronteras.ipynb` - Arboles de decision: Gini, entropia, cortes, regularizacion y fronteras.
+29. `29_maquinas_de_vectores_de_soporte_margen_c_y_kernels.ipynb` - SVM: margen, vectores de soporte, `C`, kernels, `gamma` y escalado.
+30. `30_gridsearchcv_metricas_y_validacion_cruzada.ipynb` - GridSearchCV, matriz de confusion, precision, recall, F1-score, K-fold y seleccion de umbral.
 
-Clases pendientes (28-33) sugeridas:
-1. `28_datetime_y_tiempo.ipynb` - Fechas, horas y zonas.
-2. `29_automatizacion_con_os_y_shutil.ipynb` - Archivos y automatizacion basica.
-3. `30_logging_y_debugging.ipynb` - `logging` y debugging.
-4. `31_pruebas_unitarias_con_pytest.ipynb` - Pruebas unitarias.
-5. `32_consumo_de_apis_con_requests.ipynb` - APIs HTTP con `requests`.
-6. `33_proyecto_final.ipynb` - Proyecto integrador.
+Clases pendientes (31-33) sugeridas:
+1. `31_pruebas_unitarias_con_pytest.ipynb` - Pruebas unitarias.
+2. `32_consumo_de_apis_con_requests.ipynb` - APIs HTTP con `requests`.
+3. `33_proyecto_final.ipynb` - Proyecto integrador.
 
 Los cuadernos se guardan con celdas limpias (sin output) para evitar diffs ruidosos.
